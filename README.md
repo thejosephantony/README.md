@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá , eu sou Joseph Antony <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+Engenharia+da+Computação;Desenvolvedor+Full+Stack;Entusiasta+de+IoT+e+Robótica;Apaixonado+por+Tecnologia;Sempre+aprendendo+coisas+novas&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+Engenharia+da+Computação;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Sou estudante de Engenharia da Computação com grande interesse em desenvolvimento de software, sistemas embarcados e inovação tecnológica. Gosto de programar, criar projetos práticos e resolver problemas complexos. Sou uma pessoa curiosa que adora aprender novas tecnologias e compartilhar conhecimento.</h4>
