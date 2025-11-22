@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+Engenharia+da+Computação;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Sou estudante de Engenharia da Computação com grande interesse em matemática, desenvolvimento em interface hardware-software, sistemas embarcados e inteligência artificial. </h4>
+<h4 align="center">Sou estudante de Engenharia da Computação com grande interesse em matemática, desenvolvimento de sistemas que buscam integrar hardware-software, sistemas embarcados e inteligência artificial. </h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thejosephantony&label=Visualizações+do+Perfil&color=0e75b6&style=plastic" alt="thejosephantony" /> </p>
 
