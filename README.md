@@ -78,7 +78,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Joseph's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thejosephantony&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thejosephantony&show_icons=true&locale=pt-br&layout=compact&theme=algolia" alt="thejosephantony" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejosephantony"/>
   <br/>
   <b>Nota:</b> As linguagens mais usadas são apenas uma métrica das linguagens que meu código público contém e não refletem necessariamente experiência ou nível de habilidade.
   </p>
