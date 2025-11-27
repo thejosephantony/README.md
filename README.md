@@ -127,17 +127,3 @@ sistemas embarcados e inteligência artificial.
   </a>
 
 <div align="center">
-
-### ⚡ **Fato Curioso**
-*"O primeiro programa que escrevi foi em C, e desde então nunca parei de explorar o incrível mundo da computação!"*
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://github.com/thejosephantony/thejosephantony/blob/output/github-contribution-grid-snake.svg)
-
-
-</div>
