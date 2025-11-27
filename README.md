@@ -51,7 +51,6 @@ sistemas embarcados e inteligência artificial.
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### 🔧 **Ferramentas & Tecnologias**
@@ -60,8 +59,6 @@ sistemas embarcados e inteligência artificial.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ### 🎯 **Áreas de Interesse**
@@ -71,6 +68,7 @@ sistemas embarcados e inteligência artificial.
   <img src="https://img.shields.io/badge/IoT-0066CC?style=for-the-badge&logo=iot&logoColor=white" alt="IoT"/>
   <img src="https://img.shields.io/badge/Robótica-00A98F?style=for-the-badge&logo=robot&logoColor=white" alt="Robótica"/>
   <img src="https://img.shields.io/badge/Computer_Vision-5D3FD3?style=for-the-badge&logo=opencv&logoColor=white" alt="Visão Computacional"/>
+  <img src="https://img.shields.io/badge/Teoria_da_Computação-8E44AD?style=for-the-badge&logo=book&logoColor=white" alt="Teoria da Computação"/>
 </p>
 
 ## 📈 **Estatísticas Detalhadas**
