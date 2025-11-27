@@ -23,8 +23,6 @@ sistemas embarcados e inteligência artificial.
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thejosephantony&label=Visualizações+do+Perfil&color=0e75b6&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/thejosephantony?label=Estrelas&style=social)
-
 </div>
 
 ## 📊 Estatísticas do GitHub
