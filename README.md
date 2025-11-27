@@ -107,15 +107,6 @@ sistemas embarcados e inteligência artificial.
   </div>
 </details>
 
-## 🚀 **Projetos em Destaque**
-
-<!-- Adicione seus projetos principais aqui -->
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thejosephantony&repo=seu-repositorio&theme=vue)](https://github.com/thejosephantony/seu-repositorio)
-
-</div>
-
 ## 📫 **Vamos Conectar!**
 
 <p align="center">
