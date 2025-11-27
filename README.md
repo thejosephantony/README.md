@@ -1,102 +1,143 @@
-# README.md
+# Olá, eu sou Joseph Antony 👋
 
-<h1 align="center">Olá , eu sou Joseph Antony <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  Estudante de Engenharia da Computação
+</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+Engenharia+da+Computação;&center=true&width=500&height=50"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2AA889&center=true&vCenter=true&width=500&lines=Engenharia+da+Computação;Sistemas+Embarcados;Inteligência+Artificial;IoT+e+Robótica" alt="Typing SVG" />
+  </a>
 </p>
+
 <hr/>
-<h4 align="center">Sou estudante de Engenharia da Computação com grande interesse em matemática, desenvolvimento de sistemas que buscam integrar hardware-software, sistemas embarcados e inteligência artificial. </h4>
+
+<h4 align="center">
+🎓 Estudante de Engenharia da Computação com paixão por matemática, desenvolvimento de sistemas integrados hardware-software, 
+sistemas embarcados e inteligência artificial.
+</h4>
+
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thejosephantony&label=Visualizações+do+Perfil&color=0e75b6&style=plastic" alt="thejosephantony" /> </p>
 
-## 🔥 Estatísticas de Sequência
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thejosephantony&theme=algolia" alt="thejosephantony"  /></p>
+<div align="center">
 
-## 🛠️ Minhas Habilidades
+![Profile Views](https://komarev.com/ghpvc/?username=thejosephantony&label=Visualizações+do+Perfil&color=0e75b6&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/thejosephantony?label=Estrelas&style=social)
 
-### 👉 Linguagens de Programação
+</div>
 
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-</p>
+## 📊 Estatísticas do GitHub
 
-### 👉 Ferramentas de Desenvolvimento
+<div align="center">
+
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=thejosephantony&theme=vue-dark&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<!-- Stats Cards -->
+| ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejosephantony&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejosephantony&layout=compact&theme=vue-dark&hide_border=true&langs_count=8) |
+|:---:|:---:|
+
+<!-- Activity Graph -->
+[![Joseph's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thejosephantony&theme=vue-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🛠️ Stack Tecnológica
+
+### 💻 **Linguagens de Programação**
 <p align="left">
-  &emsp;
-    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-  &emsp;
-    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979d.svg?logo=arduino&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### 👉 Áreas de Interesse
+### 🔧 **Ferramentas & Tecnologias**
 <p align="left">
-  &emsp;
-  <a href="#">
-    <img alt="IoT" src="https://img.shields.io/badge/IoT-%23006699.svg?logo=iot&logoColor=white">
-  </a>
-  &emsp;
-  <a href="#">
-    <img alt="Robótica" src="https://img.shields.io/badge/Robótica-%23FF6B6B.svg?logo=robot&logoColor=white">
-  </a>
-  &emsp;
-  <a href="#">
-    <img alt="Inteligência Artificial" src="https://img.shields.io/badge/IA-%23FF6B6B.svg?logo=ai&logoColor=white">
-  </a>
-  &emsp;
-  <a href="#">
-    <img alt="Sistemas Embarcados" src="https://img.shields.io/badge/Embarcados-%23333333.svg?logo=embedded&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-<br/>
+### 🎯 **Áreas de Interesse**
+<p align="left">
+  <img src="https://img.shields.io/badge/Sistemas_Embarcados-333333?style=for-the-badge&logo=embedded&logoColor=white" alt="Sistemas Embarcados"/>
+  <img src="https://img.shields.io/badge/Inteligência_Artificial-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" alt="IA"/>
+  <img src="https://img.shields.io/badge/IoT-0066CC?style=for-the-badge&logo=iot&logoColor=white" alt="IoT"/>
+  <img src="https://img.shields.io/badge/Robótica-00A98F?style=for-the-badge&logo=robot&logoColor=white" alt="Robótica"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-5D3FD3?style=for-the-badge&logo=opencv&logoColor=white" alt="Visão Computacional"/>
+</p>
 
-## 📊 Estatísticas do GitHub (Clique para Expandir)
+## 📈 **Estatísticas Detalhadas**
 
-<details> 
-  <summary><b>💻 Estatísticas do Perfil GitHub</b></summary>
+<details>
+  <summary><b>📋 Resumo de Contribuições</b></summary>
+  <br/>
+  
+  <!-- GitHub Stats Cards -->
+  <div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thejosephantony&show_icons=true&theme=vue&hide_border=true&include_all_commits=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejosephantony&layout=compact&theme=vue&hide_border=true&langs_count=8" />
+  </div>
+  
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Joseph's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thejosephantony&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejosephantony"/>
-  <br/>
-  <b>Nota:</b> As linguagens mais usadas são apenas uma métrica das linguagens que meu código público contém e não refletem necessariamente experiência ou nível de habilidade.
+    <b>💡 Nota:</b> As linguagens mais usadas refletem principalmente meus projetos públicos e podem não representar completamente minhas habilidades.
   </p>
 </details>
 
 <details>
-  <summary><b>⚡ Atividade Recente no GitHub</b></summary>
+  <summary><b>⚡ Timeline de Contribuições</b></summary>
   <br/>
-   <a href="https://github.com/thejosephantony"><img alt="Joseph's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thejosephantony&custom_title=Joseph%20Antony's%20Graph%20de%20Contribuições&theme=react-dark" /></a>
-  <br/>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejosephantony&theme=vue-dark&hide_border=true&area=true&custom_title=Linha+do+Tempo+de+Contribuições" alt="Activity Graph" />
+  </div>
 </details>
 
-<br/>
+<details>
+  <summary><b>🏆 Troféus do GitHub</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=thejosephantony&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  </div>
+</details>
 
-## 🙋‍♂️ Vamos Conectar
+## 🚀 **Projetos em Destaque**
+
+<!-- Adicione seus projetos principais aqui -->
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thejosephantony&repo=seu-repositorio&theme=vue)](https://github.com/thejosephantony/seu-repositorio)
+
+</div>
+
+## 📫 **Vamos Conectar!**
+
 <p align="center">
-  <a href="mailto:thejosephantony@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/thejosephantony"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-</p>
+  <a href="mailto:thejosephantony@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/thejosephantony">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-<hr/>
+<div align="center">
+
+### ⚡ **Fato Curioso**
+*"O primeiro programa que escrevi foi em C, e desde então nunca parei de explorar o incrível mundo da computação!"*
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/thejosephantony/thejosephantony/blob/output/github-contribution-grid-snake.svg)
+
+
+</div>
