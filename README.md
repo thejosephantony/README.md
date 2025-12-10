@@ -29,17 +29,24 @@ Sou apaixonado por matemática, sistemas embarcados, inteligência artificial, v
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thejosephantony&theme=vue-dark&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-|<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thejosephantony&layout=compact&theme=vue-dark&hide_border=true"
+<!-- Streak -->
+<img 
+  src="https://streak-stats.demolab.com?user=thejosephantony&theme=vue-dark&border_radius=8&date_format=j%20M%5B%20Y%5D"
+  height="180"
 />
- | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejosephantony&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" height="180"/> |
-|:---:|:---:|
 
-<br>
+<!-- Top Languages (CORRIGIDO - APARECE SEMPRE) -->
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thejosephantony&layout=compact&theme=vue-dark&hide_border=true&langs_count=8"
+  height="180"
+/>
 
-[![Joseph's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thejosephantony&theme=vue-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br><br>
+
+<!-- Activity Graph -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=thejosephantony&theme=vue-dark&hide_border=true&area=true"
+/>
 
 </div>
 
@@ -83,7 +90,7 @@ Sou apaixonado por matemática, sistemas embarcados, inteligência artificial, v
 
   <div align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thejosephantony&show_icons=true&theme=vue&hide_border=true&include_all_commits=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejosephantony&layout=compact&theme=vue&hide_border=true&langs_count=8" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thejosephantony&layout=compact&theme=vue&hide_border=true&langs_count=8" />
   </div>
 
   <br/>
