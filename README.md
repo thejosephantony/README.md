@@ -31,7 +31,10 @@ Sou apaixonado por matemática, sistemas embarcados, inteligência artificial, v
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thejosephantony&theme=vue-dark&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-| <img src="https://github-readme-stats.vercel.app/api?username=thejosephantony&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true" height="180"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejosephantony&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" height="180"/> |
+|<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thejosephantony&layout=compact&theme=vue-dark&hide_border=true"
+/>
+ | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejosephantony&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" height="180"/> |
 |:---:|:---:|
 
 <br>
