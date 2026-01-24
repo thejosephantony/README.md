@@ -15,7 +15,7 @@
 Sou estudante de **Engenharia da Computação**, com forte interesse em **matemática**, **arquitetura de computadores** e **programação de baixo nível**.  
 Tenho afinidade com o desenvolvimento de soluções que integram **hardware e software**, buscando eficiência, controle de recursos e compreensão profunda dos sistemas.
 
-Áreas de maior interesse:
+**Áreas de maior interesse:**
 - Sistemas embarcados  
 - Projeto digital e HDL  
 - Inteligência artificial  
@@ -28,14 +28,11 @@ Tenho afinidade com o desenvolvimento de soluções que integram **hardware e so
 
 ### 💻 Linguagens & Frameworks
 <p>
-  <!-- Linguagens -->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Verilog_HDL-8E44AD?style=for-the-badge&logo=verilog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-
-  <!-- Frameworks / Plataformas -->
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
@@ -50,6 +47,7 @@ Tenho afinidade com o desenvolvimento de soluções que integram **hardware e so
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
+---
 
 ## 📊 Estatísticas do GitHub
 
