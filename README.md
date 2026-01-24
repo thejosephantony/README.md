@@ -6,13 +6,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Engenharia+da+Computação;Sistemas+Embarcados;Inteligência+Artificial;IoT+e+Robótica;Tecnologia+como+Transformação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2AA889&center=true&vCenter=true&width=650&lines=Engenharia+da+Computação;Sistemas+Embarcados+e+IoT;Inteligência+Artificial;Visão+Computacional;Integração+Hardware+e+Software" />
 </p>
 
 ---
 
 <h4 align="center">
-Sou apaixonado por matemática, sistemas embarcados, inteligência artificial, visão computacional e pelo desenvolvimento de soluções que integram hardware e software.
+Sou estudante de Engenharia da Computação com forte interesse em matemática aplicada, sistemas embarcados, inteligência artificial e visão computacional.  
+Gosto de desenvolver soluções que integram hardware e software, com foco em eficiência, controle e entendimento profundo dos sistemas.
 </h4>
 
 <br>
@@ -29,13 +30,11 @@ Sou apaixonado por matemática, sistemas embarcados, inteligência artificial, v
 
 <div align="center">
 
-<!-- Streak -->
 <img 
   src="https://streak-stats.demolab.com?user=thejosephantony&theme=vue-dark&border_radius=8&date_format=j%20M%5B%20Y%5D"
   height="180"
 />
 
-<!-- Top Languages (CORRIGIDO - APARECE SEMPRE) -->
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thejosephantony&layout=compact&theme=vue-dark&hide_border=true&langs_count=8"
   height="180"
@@ -43,7 +42,6 @@ Sou apaixonado por matemática, sistemas embarcados, inteligência artificial, v
 
 <br><br>
 
-<!-- Activity Graph -->
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=thejosephantony&theme=vue-dark&hide_border=true&area=true"
 />
@@ -54,7 +52,7 @@ Sou apaixonado por matemática, sistemas embarcados, inteligência artificial, v
 
 ## 🛠️ Stack Tecnológica
 
-### 💻 **Linguagens**
+### 💻 Linguagens
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -62,7 +60,7 @@ Sou apaixonado por matemática, sistemas embarcados, inteligência artificial, v
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-### 🔧 **Ferramentas & Tecnologias**
+### 🔧 Ferramentas & Tecnologias
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -70,13 +68,13 @@ Sou apaixonado por matemática, sistemas embarcados, inteligência artificial, v
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-### 🎯 **Áreas de Interesse**
+### 🎯 Áreas de Interesse
 <p align="left">
   <img src="https://img.shields.io/badge/Sistemas_Embarcados-333333?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Inteligência_Artificial-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/IoT-0066CC?style=for-the-badge&logo=internet-of-things&logoColor=white"/>
   <img src="https://img.shields.io/badge/Robótica-00A98F?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-5D3FD3?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visão_Computacional-5D3FD3?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Teoria_da_Computação-8E44AD?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </p>
 
@@ -95,12 +93,12 @@ Sou apaixonado por matemática, sistemas embarcados, inteligência artificial, v
 
   <br/>
   <p align="center">
-    <b>💡 Obs:</b> As linguagens exibidas refletem apenas meus repositórios públicos.
+    <b>💡 Observação:</b> As estatísticas de linguagens consideram apenas repositórios públicos.
   </p>
 </details>
 
 <details>
-  <summary><b>⚡ Timeline de Contribuições</b></summary>
+  <summary><b>⚡ Linha do Tempo de Contribuições</b></summary>
   <br/>
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejosephantony&theme=vue-dark&hide_border=true&area=true&custom_title=Linha+do+Tempo+de+Contribuições" />
@@ -117,7 +115,7 @@ Sou apaixonado por matemática, sistemas embarcados, inteligência artificial, v
 
 ---
 
-## 📫 Vamos Conectar!
+## 📫 Vamos Conectar
 
 <p align="center">
   <a href="mailto:thejosephantony@gmail.com">
@@ -127,5 +125,3 @@ Sou apaixonado por matemática, sistemas embarcados, inteligência artificial, v
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
