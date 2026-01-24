@@ -26,15 +26,18 @@ Tenho afinidade com o desenvolvimento de soluções que integram **hardware e so
 
 ## 🛠️ Stack Tecnológica
 
-### 💻 Linguagens
+### 💻 Linguagens & Frameworks
 <p>
+  <!-- Linguagens -->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog_HDL-8E44AD?style=for-the-badge&logo=verilog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verilog_HDL-8E44AD?style=for-the-badge&logo=verilog&logoColor=white"/>
+
+  <!-- Frameworks / Plataformas -->
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 ### 🔧 Ferramentas & Tecnologias
@@ -47,19 +50,6 @@ Tenho afinidade com o desenvolvimento de soluções que integram **hardware e so
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-### 🎯 Áreas de Interesse
-<p>
-  <img src="https://img.shields.io/badge/Sistemas_Embarcados-333333?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arquitetura_de_Computadores-2C3E50?style=for-the-badge&logo=chip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Projeto_Digital-34495E?style=for-the-badge&logo=circuitverse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Inteligência_Artificial-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visão_Computacional-5D3FD3?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-0066CC?style=for-the-badge&logo=internet-of-things&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Robótica-00A98F?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Teoria_da_Computação-8E44AD?style=for-the-badge&logo=bookstack&logoColor=white"/>
-</p>
-
----
 
 ## 📊 Estatísticas do GitHub
 
