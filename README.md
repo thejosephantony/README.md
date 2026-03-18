@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=2AA889&center=true&vCenter=true&width=720&lines=Engenharia+da+Computação;Sistemas+Embarcados;Arquitetura+de+Computadores;Inteligência+Artificial;Visão+Computacional;Integração+Hardware+e+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=2AA889&center=true&vCenter=true&width=720&lines=Engenharia+da+Computação;Arquitetura+de+Computadores;Inteligência+Artificial;Integração+Hardware+e+Software" />
 </p>
 
 ---
@@ -16,11 +16,10 @@ Sou estudante de **Engenharia da Computação**, com forte interesse em **matem�
 Tenho afinidade com o desenvolvimento de soluções que integram **hardware e software**, buscando eficiência, controle de recursos e compreensão profunda dos sistemas.
 
 **Áreas de maior interesse:**
-- Sistemas embarcados  
+- Arquitetura de Computadores
 - Projeto digital e HDL  
 - Inteligência artificial  
-- Visão computacional  
-- IoT e robótica  
+- Teoria da Computação
 
 ---
 
