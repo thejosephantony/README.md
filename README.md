@@ -15,9 +15,9 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de **Engenharia da Computação**, com interesse acadêmico e técnico nas áreas de **arquitetura de computadores**, **sistemas operacionais**, **programação de baixo nível**, **matemática computacional**, **inteligência artificial**, **banco de dados** e **desenvolvimento de software**.
+Sou estudante de **Engenharia da Computação**, com interesse nas áreas de **arquitetura de computadores**, **sistemas operacionais**, **programação de baixo nível**, **matemática computacional**, **inteligência artificial** e **desenvolvimento de software**.
 
-Tenho interesse em compreender a computação em diferentes níveis de abstração: desde a interação entre **hardware, memória, processador e sistema operacional**, até o desenvolvimento de aplicações modernas utilizando **C#**, **Java**, **Python**, **C/C++**, **SQL**, **PostgreSQL**, **SQL Server** e tecnologias web.
+Tenho interesse em compreender a computação em diferentes níveis de abstração: desde a interação entre **hardware, memória, processador e sistema operacional**, até o desenvolvimento de aplicações modernas utilizando **C#**, **Java**, **Python**, **C/C++**, **SQL**, **PostgreSQL**, **SQL Server** e integração com interfaces web.
 
 Busco desenvolver projetos com foco em:
 
@@ -60,9 +60,6 @@ Busco desenvolver projetos com foco em:
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 
 ### 🌐 Desenvolvimento de Software
@@ -77,12 +74,12 @@ Busco desenvolver projetos com foco em:
   <img src="https://img.shields.io/badge/POO-34495E?style=for-the-badge"/>
 </p>
 
-### 🎨 Front-end
+### 🎨 Interface e Aplicações Web
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Integração_Front--end_Back--end-34495E?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Banco de Dados
@@ -125,6 +122,7 @@ Busco desenvolver projetos com foco em:
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white"/>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
@@ -144,7 +142,7 @@ Busco desenvolver projetos com foco em:
   <img src="https://img.shields.io/badge/SQL-Banco_de_Dados-003B57?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-Banco_de_Dados-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-Banco_de_Dados-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-Front--end-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-Interfaces_web-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ---
@@ -179,6 +177,18 @@ Tenho interesse em temas que conectam teoria, implementação e desempenho compu
 - Desenvolvimento de sistemas acadêmicos, médicos e administrativos
 - Modelagem de dados, APIs e persistência de informações
 
+---
+
+## 🌿 Interesses além da Computação
+
+Além da área técnica, também tenho interesse por temas ligados à **literatura**, **filosofia**, **história**, **ciências humanas** e **reflexões sobre a condição humana**.
+
+Alguns assuntos que me interessam:
+
+- 📚 Literatura clássica e contemporânea
+- 🧠 Filosofia
+- 🏛️ História das ideias e pensamento humano
+- ✍️ Escrita, leitura e formação intelectual/cultural
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -217,6 +227,7 @@ Tenho interesse em temas que conectam teoria, implementação e desempenho compu
 
 </div>
 
+---
 
 ## 📫 Contato
 
@@ -232,3 +243,4 @@ Tenho interesse em temas que conectam teoria, implementação e desempenho compu
 
 </div>
 
+---
