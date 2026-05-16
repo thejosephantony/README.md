@@ -5,77 +5,251 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=2AA889&center=true&vCenter=true&width=720&lines=Engenharia+da+Computa%C3%A7%C3%A3o;Arquitetura+de+Computadores;Intelig%C3%AAncia+Artificial;Integra%C3%A7%C3%A3o+Hardware+e+Software" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=2AA889&center=true&vCenter=true&width=820&lines=Engenharia+da+Computa%C3%A7%C3%A3o;Arquitetura+de+Computadores;Sistemas+Operacionais;Programa%C3%A7%C3%A3o+de+Baixo+N%C3%ADvel;Intelig%C3%AAncia+Artificial;C%23+%7C+.NET+%7C+Java+%7C+C%2FC%2B%2B;Integra%C3%A7%C3%A3o+Hardware+e+Software" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante de **Engenharia da Computação**, com forte interesse em **matemática**, **arquitetura de computadores** e **programação de baixo nível**.  
-Tenho afinidade com o desenvolvimento de soluções que integram **hardware e software**, buscando máxima eficiência, controle de recursos e compreensão profunda do sistema.
+Sou estudante de **Engenharia da Computação**, com interesse acadêmico e técnico nas áreas de **arquitetura de computadores**, **sistemas operacionais**, **programação de baixo nível**, **matemática computacional**, **inteligência artificial** e **desenvolvimento de software**.
 
-**Áreas de maior interesse:**
-- 🏛️ Arquitetura de Computadores & Organização de Computadores
-- 🎛️ Projeto Digital e Descrição de Hardware (HDL)
-- 🤖 Inteligência Artificial & Aprendizado de Máquina
-- 💻 Teoria da Computação & Algoritmos Avançados
+Tenho interesse em compreender a computação em diferentes níveis de abstração: desde a interação entre **hardware, memória, processador e sistema operacional**, até o desenvolvimento de aplicações modernas utilizando **C#**, **Java**, **Python**, **C/C++**, **bancos de dados** e tecnologias web.
+
+Busco desenvolver projetos com foco em:
+
+- ⚙️ Eficiência computacional
+- 🧩 Compreensão profunda de sistemas
+- 🏛️ Fundamentos teóricos da computação
+- 💻 Desenvolvimento de software bem estruturado
+- 🔬 Aplicações acadêmicas, científicas e experimentais
+- 🎛️ Integração entre hardware, software e algoritmos
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🎯 Áreas de Interesse
 
-### 💻 Linguagens & Frameworks
-<p>
+- 🏛️ **Arquitetura e Organização de Computadores**
+- ⚙️ **Sistemas Operacionais**
+- 🎛️ **Projeto Digital e Linguagens de Descrição de Hardware**
+- 💾 **Programação de Baixo Nível**
+- 🧮 **Matemática Computacional**
+- 🤖 **Inteligência Artificial e Aprendizado de Máquina**
+- 📐 **Algoritmos e Estruturas de Dados**
+- 🧠 **Teoria da Computação**
+- 🗄️ **Banco de Dados**
+- 🌐 **Desenvolvimento Web e APIs**
+- 🔬 **Computação Científica e Simulação Numérica**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens de Programação
+
+<p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verilog_HDL-8E44AD?style=for-the-badge&logo=verilog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly_x86--64-525252?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog_HDL-8E44AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 
-### 🔧 Ferramentas & Tecnologias
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+### 🌐 Desenvolvimento de Software
+
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POO-34495E?style=for-the-badge"/>
 </p>
+
+### 🎨 Front-end
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🗄️ Banco de Dados
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+</p>
+
+### ⚙️ Sistemas, Baixo Nível e Desempenho
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clang%2FLLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDB-CC342D?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Objdump-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Perf-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gprof-555555?style=for-the-badge"/>
+</p>
+
+### 🔧 Ferramentas de Desenvolvimento
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge"/>
+</p>
+
+### 🧰 IDEs e Ambientes
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Linguagens utilizadas nos meus repositórios
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-Programação_de_sistemas-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-Algoritmos_e_STL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-.NET_e_APIs-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-POO_e_Concorrência-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-IA_e_Cálculo_Numérico-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-Baixo_Nível-525252?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Verilog-HDL_e_Projeto_Digital-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-Banco_de_Dados-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-Front--end-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Formação Técnica e Acadêmica
+
+Atualmente, meus estudos envolvem fundamentos essenciais da Computação e da Engenharia, incluindo:
+
+- Arquitetura de computadores e conjunto de instruções
+- Sistemas operacionais, processos, threads e sincronização
+- Programação em C, C++, Assembly, Java, Python e C#
+- Desenvolvimento back-end com ASP.NET Core e Spring Boot
+- Banco de dados com PostgreSQL e SQL
+- Compilação, representação intermediária e análise de código
+- Projeto digital com Verilog HDL
+- Estruturas de dados e análise de algoritmos
+- Fundamentos de inteligência artificial e aprendizado de máquina
+- Computabilidade, autômatos e teoria da computação
+
+---
+
+## 🔬 Interesses de Pesquisa e Estudo
+
+Tenho interesse em temas que conectam teoria, implementação e desempenho computacional, como:
+
+- Computabilidade e limites da computação
+- Simulação numérica e computação científica
+- Otimização de código e análise de desempenho
+- Interfaces entre hardware e software
+- Sistemas embarcados e arquitetura de processadores
+- Aplicações de IA em problemas científicos e educacionais
+- Desenvolvimento de sistemas acadêmicos, médicos e administrativos
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+
   <table border="0">
     <tr>
       <td>
-        <img src="https://streak-stats.demolab.com?user=thejosephantony&theme=vue-dark&border_radius=8" height="175" alt="GitHub Streak Stats" />
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=thejosephantony&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" 
+          height="170" 
+          alt="GitHub Stats" 
+        />
       </td>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thejosephantony&theme=vue-dark&hide_border=true&langs_count=8&include_all_commits=true" height="175" alt="Top Languages" />
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejosephantony&theme=vue-dark&hide_border=true&langs_count=12&layout=compact&card_width=420&custom_title=Linguagens%20mais%20utilizadas" 
+          height="170" 
+          alt="Top Languages" 
+        />
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejosephantony&theme=vue-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+  <img 
+    src="https://streak-stats.demolab.com?user=thejosephantony&theme=vue-dark&hide_border=true&border_radius=8" 
+    height="170" 
+    alt="GitHub Streak Stats" 
+  />
+
+  <br><br>
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=thejosephantony&theme=vue-dark&hide_border=true&area=true" 
+    width="95%" 
+    alt="GitHub Activity Graph" 
+  />
+
 </div>
 
 ---
 
-## 📫 Vamos nos conectar!
+## 🚀 Projetos e Estudos em Destaque
+
+- 🏥 **MedSys** — sistema médico em desenvolvimento com foco em C#, ASP.NET Core, PostgreSQL e arquitetura em camadas.
+- 🎓 **Sistema de Gerenciamento Acadêmico** — aplicação voltada à organização de dados acadêmicos.
+- ⚙️ **Interface Hardware/Software** — estudos de Assembly, arquitetura, desempenho, ABI, compilação e representação de dados.
+- 🧵 **Sistemas Operacionais** — processos, threads, sincronização, semáforos, monitores e problemas clássicos de concorrência.
+- 🎛️ **Linguagem de Descrição de Hardware** — estudos e práticas com Verilog HDL e projeto digital.
+- 🧮 **Cálculo Numérico e Computação Científica** — algoritmos numéricos em Python e C++.
+- 🧠 **Teoria da Computação** — autômatos, linguagens formais, computabilidade e modelos de computação.
+- 🏆 **Programação Competitiva** — algoritmos, estruturas de dados e resolução eficiente de problemas.
+
+---
+
+## 📫 Contato
 
 <div align="center">
+
   <a href="mailto:thejosephantony@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+
   <a href="https://github.com/thejosephantony" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
 </div>
+
+---
+
+<p align="center">
+  <em>
+    “A computação não é apenas sobre escrever programas, mas sobre compreender sistemas, abstrações, desempenho e limites.”
+  </em>
+</p>
