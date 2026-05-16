@@ -160,21 +160,6 @@ Atualmente, meus estudos envolvem fundamentos essenciais da Computação e da En
 - Fundamentos de inteligência artificial e aprendizado de máquina
 - Computabilidade, autômatos e teoria da computação
 
----
-
-## 🔬 Interesses de Pesquisa e Estudo
-
-Tenho interesse em temas que conectam teoria, implementação e desempenho computacional, como:
-
-- Computabilidade e limites da computação
-- Simulação numérica e computação científica
-- Otimização de código e análise de desempenho
-- Interfaces entre hardware e software
-- Sistemas embarcados e arquitetura de processadores
-- Aplicações de IA em problemas científicos e educacionais
-- Desenvolvimento de sistemas acadêmicos, médicos e administrativos
-
----
 
 ## 📊 Estatísticas do GitHub
 
@@ -217,20 +202,6 @@ Tenho interesse em temas que conectam teoria, implementação e desempenho compu
 
 </div>
 
----
-
-## 🚀 Projetos e Estudos em Destaque
-
-- 🏥 **MedSys** — sistema médico em desenvolvimento com foco em C#, ASP.NET Core, PostgreSQL e arquitetura em camadas.
-- 🎓 **Sistema de Gerenciamento Acadêmico** — aplicação voltada à organização de dados acadêmicos.
-- ⚙️ **Interface Hardware/Software** — estudos de Assembly, arquitetura, desempenho, ABI, compilação e representação de dados.
-- 🧵 **Sistemas Operacionais** — processos, threads, sincronização, semáforos, monitores e problemas clássicos de concorrência.
-- 🎛️ **Linguagem de Descrição de Hardware** — estudos e práticas com Verilog HDL e projeto digital.
-- 🧮 **Cálculo Numérico e Computação Científica** — algoritmos numéricos em Python e C++.
-- 🧠 **Teoria da Computação** — autômatos, linguagens formais, computabilidade e modelos de computação.
-- 🏆 **Programação Competitiva** — algoritmos, estruturas de dados e resolução eficiente de problemas.
-
----
 
 ## 📫 Contato
 
@@ -247,9 +218,3 @@ Tenho interesse em temas que conectam teoria, implementação e desempenho compu
 </div>
 
 ---
-
-<p align="center">
-  <em>
-    “A computação não é apenas sobre escrever programas, mas sobre compreender sistemas, abstrações, desempenho e limites.”
-  </em>
-</p>
