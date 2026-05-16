@@ -165,7 +165,7 @@ Entre os principais temas estudados estão:
 - 🤖 Fundamentos de Inteligência Artificial e Aprendizado de Máquina
 - 🧠 Computabilidade, Autômatos e Teoria da Computação
 
-## 🌿 Interesses além da Computação
+## 📖 Interesses além da Computação
 
 Além da área técnica, também tenho interesse por temas ligados à **literatura**, **filosofia**, **história**, **ciências humanas** e **reflexões sobre a condição humana**.
 
