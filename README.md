@@ -39,10 +39,10 @@ Busco desenvolver projetos com foco em:
 - 💾 **Programação de Baixo Nível**
 - 🧮 **Matemática Computacional**
 - 🤖 **Inteligência Artificial e Aprendizado de Máquina**
-- 📐 **Algoritmos e Estruturas de Dados**
-- 🧠 **Teoria da Computação**
-- 🗄️ **Banco de Dados**
-- 🌐 **Desenvolvimento Web, APIs e Sistemas**
+- 📐 **Algoritmos, Estruturas de Dados e Programação Competitiva**
+- 🧠 **Teoria da Computação e Computabilidade**
+- 🗄️ **Banco de Dados e Modelagem de Dados**
+- 🌐 **Desenvolvimento de Software, APIs e Sistemas**
 - 🔬 **Computação Científica e Simulação Numérica**
 
 ---
