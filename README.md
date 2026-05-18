@@ -190,7 +190,7 @@ Alguns assuntos que me interessam:
   <br><br>
 
   <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejosephantony&theme=vue-dark&hide_border=true&langs_count=12&layout=compact&card_width=520&custom_title=Linguagens%20mais%20utilizadas&size_weight=0.5&count_weight=0.5" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thejosephantony&theme=vue-dark&hide_border=true&langs_count=12&layout=compact&card_width=520&custom_title=Linguagens%20mais%20utilizadas" 
   height="220" 
   alt="Top Languages" 
   />
